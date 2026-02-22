@@ -45,11 +45,11 @@ To ensure everything appears correctly:
 - Train–validation–test split for fair comparison
 
 **7. Requirements**
-numpy
-pandas
-matplotlib
-scikit-learn
-seaborn
+-numpy
+-pandas
+-matplotlib
+-scikit-learn
+-seaborn
 
 
 **Name: Lohith Reddy Danda**
