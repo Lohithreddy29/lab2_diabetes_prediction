@@ -1,5 +1,5 @@
  # Lab 2: Diabetes Progression Prediction
----
+
 **1. Project Overview**
 This lab applies multiple supervised learning models to predict diabetes disease‑progression scores using the Scikit‑Learn diabetes dataset. Models include univariate polynomial regression, multivariate polynomial regression, decision tree regression, k‑nearest neighbors regression, and logistic regression for binary classification.
 
