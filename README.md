@@ -55,8 +55,8 @@ The project uses the following Python libraries:
 
 
 
-**Name: Lohith Reddy Danda**
-**Course:Foundations of Machine Learning Frameworks**
+**Name:** Lohith Reddy Danda  
+**Course:** Foundations of Machine Learning Frameworks
 
 
 
