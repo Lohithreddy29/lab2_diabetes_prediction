@@ -84,7 +84,7 @@ Run the entire notebook.
 ## Author / Course
 
 **Name**: Lohith Reddy Danda
-**Course**: Foundations of Machine Learning Frameworks
+-**Course**: Foundations of Machine Learning Frameworks
 
 ## 9. Outputs / Plots (Optional)
 
