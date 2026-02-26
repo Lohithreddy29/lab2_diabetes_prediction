@@ -25,20 +25,37 @@ Models include:
 
 ## 3. How to Run
 
-1. Install dependencies:
+## Setup Environment
+
+1. Create a virtual environment:
+   ```bash
+   python -m venv venv
+   ```
+
+2. Activate the virtual environment:
+
+Windows
+```bash
+venv\Scripts\activate
+```
+macOS/Linux:
+```bash
+source venv/bin/activate
+```
+3. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
-2. Open the notebook:
+4. Open the notebook:
 ```bash
 jupyter notebook notebooks/Lab2_Diabetes.ipynb
 ```
-3.Run all cells from top to bottom.
+5.Run all cells from top to bottom.
 
-4.Save the notebook after all outputs appear.
+6.Save the notebook after all outputs appear.
 
-5.Push the saved notebook to GitHub.
+7.Push the saved notebook to GitHub.
 
 ## 4. Ensuring Outputs Show on GitHub
 GitHub only displays outputs that were already generated and saved in the notebook. To ensure everything appears correctly:
